@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HikeMate</string>
+    <string name="general_header">General</string>
+    <string name="tracking_header">Tracking</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="notifications_summary">Receive notifications for completed hikes</string>
+    <string name="units_title">Units</string>
+    <string name="units_summary">Choose your preferred measurement units</string>
+    <string name="auto_pause_title">Auto Pause</string>
+    <string name="auto_pause_summary">Automatically pause tracking when stopped</string>
+    <string name="gps_accuracy_title">GPS Accuracy</string>
+    <string name="gps_accuracy_summary">Higher values improve accuracy but use more battery</string>
+    <string-array name="units_entries">
+        <item>Metric (km, m)</item>
+        <item>Imperial (mi, ft)</item>
+    </string-array>
+
+    <string-array name="units_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+</resources>
