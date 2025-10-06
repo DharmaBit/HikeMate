@@ -23,9 +23,9 @@ It connects hikers, helps them discover trails, share stories, and organize grou
 ## 🧩 Project Structure
 
 HikeMate/
-── app/ # Main Android app module
-── gradle/ # Gradle configuration files
-── src/main/java/ # Kotlin / Java source code res/ # UI resources (layouts, drawables, values, etc.)
+── app/# Main Android app module
+── gradle/# Gradle configuration files
+── src/main/java/# Kotlin /Java source code res/# UI resources (layouts, drawables, values, etc.)
 ── build.gradle.kts # Main Gradle build script
 ── settings.gradle.kts
 ── proguard-rules.pro
