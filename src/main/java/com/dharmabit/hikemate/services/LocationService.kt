@@ -183,7 +183,7 @@ class LocationService : LifecycleService() {
                         Looper.getMainLooper()
                     )
                 } catch (unlikely: SecurityException) {
-                    // Handle security exception
+                    // This Handle security exception
                 }
             }
         } else {

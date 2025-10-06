@@ -61,7 +61,7 @@ class HomeFragment : Fragment() {
 
     private fun setupRecyclerView() {
         hikeAdapter = HikeAdapter { hike ->
-            // Handle hike item click
+            // This Handle hike item click
             val intent = Intent(requireContext(), HikeDetailActivity::class.java).apply {
                 putExtra(HikeDetailActivity.EXTRA_HIKE_ID, hike.id)
             }

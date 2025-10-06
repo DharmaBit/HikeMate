@@ -254,7 +254,7 @@ class RecordHikeActivity : AppCompatActivity(), OnMapReadyCallback {
 
             val trackPoints = allLocations.map { location ->
                 TrackPoint(
-                    hikeId = 0, // Will be updated in ViewModel
+                    hikeId = 0, // This Will be updated in ViewModel
                     latitude = location.latitude,
                     longitude = location.longitude,
                     altitude = location.altitude,
