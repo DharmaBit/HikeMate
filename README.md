@@ -5,7 +5,7 @@ It connects hikers, helps them discover trails, share stories, and organize grou
 
 ## 🌄 Features
 
-- User authentication (email / social login) #SOON
+- User authentication (email / social login) *SOON*
 - User profiles & settings
 - Create and share hiking posts with photos
 - Follow / connect with other hikers
